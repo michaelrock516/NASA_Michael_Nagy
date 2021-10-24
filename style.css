@@ -1,0 +1,37 @@
+
+
+
+.bob{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* POSITION:FIXED; */
+    PADDING: 10PX;
+    WIDTH: 850PX;
+    height: 450px;
+    
+   
+    
+}
+  .centered {
+    POSITION: RELATIVE;
+    TEXT-ALIGN:CENTER;
+    top: -60%;
+    FONT-SIZE:50PX;
+    COLOR:WHITE;
+  }
+.lower3{
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  /* POSITION:FIXED; */
+  padding: 20px;
+  WIDTH: 810PX;
+  height: 324px;
+  background-color: lightgrey;
+  
+}
+.button{
+  background-color:black;
+}
